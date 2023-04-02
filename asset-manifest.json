@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5a33af17.css",
+    "main.js": "/static/js/main.45fa473b.js",
+    "static/media/aiims.jpg": "/static/media/aiims.f9c12695024afb69aee8.jpg",
+    "static/media/Lakhimpur-Medical-College-1.jpg": "/static/media/Lakhimpur-Medical-College-1.fbe3cb01b305af4fab17.jpg",
+    "static/media/clg3.jpeg": "/static/media/clg3.bc0825e281ef8371d1db.jpeg",
+    "static/media/dtu.jpg": "/static/media/dtu.43cc26565539e6fdf2b1.jpg",
+    "static/media/heroImage.jpg": "/static/media/heroImage.f8120e107d5adb605bc4.jpg",
+    "static/media/online-lesson.png": "/static/media/online-lesson.a50919a4fbbf1b09a7d4.png",
+    "index.html": "/index.html",
+    "main.5a33af17.css.map": "/static/css/main.5a33af17.css.map",
+    "main.45fa473b.js.map": "/static/js/main.45fa473b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5a33af17.css",
+    "static/js/main.45fa473b.js"
+  ]
+}
